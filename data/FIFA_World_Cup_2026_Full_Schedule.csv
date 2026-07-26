@@ -1,0 +1,104 @@
+First Team,Second Team,Stadium / City,Group,Stage
+Mexico,South Africa,Mexico City Stadium (Mexico City),Group A,First Stage
+South Korea,Czechia,Guadalajara Stadium (Guadalajara),Group A,First Stage
+Czechia,South Africa,Atlanta Stadium (Atlanta),Group A,First Stage
+Mexico,South Korea,Guadalajara Stadium (Guadalajara),Group A,First Stage
+South Africa,South Korea,Monterrey Stadium (Monterrey),Group A,First Stage
+Czechia,Mexico,Mexico City Stadium (Mexico City),Group A,First Stage
+Canada,Bosnia and Herzegovina,Toronto Stadium (Toronto),Group B,First Stage
+Qatar,Switzerland,San Francisco Bay Area Stadium,Group B,First Stage
+Switzerland,Bosnia and Herzegovina,Los Angeles Stadium (Los Angeles),Group B,First Stage
+Canada,Qatar,BC Place Vancouver (Vancouver),Group B,First Stage
+Switzerland,Canada,BC Place Vancouver (Vancouver),Group B,First Stage
+Bosnia and Herzegovina,Qatar,Seattle Stadium (Seattle),Group B,First Stage
+Brazil,Morocco,New York/New Jersey Stadium,Group C,First Stage
+Haiti,Scotland,Boston Stadium (Boston),Group C,First Stage
+Brazil,Haiti,Philadelphia Stadium (Philadelphia),Group C,First Stage
+Scotland,Morocco,Boston Stadium (Boston),Group C,First Stage
+Scotland,Brazil,Miami Stadium (Miami),Group C,First Stage
+Morocco,Haiti,Atlanta Stadium (Atlanta),Group C,First Stage
+United States,Paraguay,Los Angeles Stadium (Los Angeles),Group D,First Stage
+Australia,Türkiye,BC Place Vancouver (Vancouver),Group D,First Stage
+United States,Australia,Seattle Stadium (Seattle),Group D,First Stage
+Türkiye,Paraguay,San Francisco Bay Area Stadium,Group D,First Stage
+Türkiye,United States,Los Angeles Stadium (Los Angeles),Group D,First Stage
+Paraguay,Australia,San Francisco Bay Area Stadium,Group D,First Stage
+Germany,Curaçao,Houston Stadium (Houston),Group E,First Stage
+Ivory Coast,Ecuador,Philadelphia Stadium (Philadelphia),Group E,First Stage
+Germany,Ivory Coast,Toronto Stadium (Toronto),Group E,First Stage
+Ecuador,Curaçao,Kansas City Stadium (Kansas City),Group E,First Stage
+Curaçao,Ivory Coast,Philadelphia Stadium (Philadelphia),Group E,First Stage
+Ecuador,Germany,New York/New Jersey Stadium,Group E,First Stage
+Netherlands,Japan,Dallas Stadium (Dallas),Group F,First Stage
+Sweden,Tunisia,Monterrey Stadium (Monterrey),Group F,First Stage
+Netherlands,Sweden,Houston Stadium (Houston),Group F,First Stage
+Tunisia,Japan,Monterrey Stadium (Monterrey),Group F,First Stage
+Japan,Sweden,Dallas Stadium (Dallas),Group F,First Stage
+Tunisia,Netherlands,Kansas City Stadium (Kansas City),Group F,First Stage
+Belgium,Egypt,Seattle Stadium (Seattle),Group G,First Stage
+Iran,New Zealand,Los Angeles Stadium (Los Angeles),Group G,First Stage
+Belgium,Iran,Los Angeles Stadium (Los Angeles),Group G,First Stage
+New Zealand,Egypt,BC Place Vancouver (Vancouver),Group G,First Stage
+Egypt,Iran,Seattle Stadium (Seattle),Group G,First Stage
+New Zealand,Belgium,BC Place Vancouver (Vancouver),Group G,First Stage
+Spain,Cabo Verde,Atlanta Stadium (Atlanta),Group H,First Stage
+Saudi Arabia,Uruguay,Miami Stadium (Miami),Group H,First Stage
+Spain,Saudi Arabia,Atlanta Stadium (Atlanta),Group H,First Stage
+Uruguay,Cabo Verde,Miami Stadium (Miami),Group H,First Stage
+Cabo Verde,Saudi Arabia,Houston Stadium (Houston),Group H,First Stage
+Uruguay,Spain,Guadalajara Stadium (Guadalajara),Group H,First Stage
+France,Senegal,New York/New Jersey Stadium,Group I,First Stage
+Iraq,Norway,Boston Stadium (Boston),Group I,First Stage
+France,Iraq,Philadelphia Stadium (Philadelphia),Group I,First Stage
+Norway,Senegal,New York/New Jersey Stadium,Group I,First Stage
+Norway,France,Boston Stadium (Boston),Group I,First Stage
+Senegal,Iraq,Toronto Stadium (Toronto),Group I,First Stage
+Argentina,Algeria,Kansas City Stadium (Kansas City),Group J,First Stage
+Austria,Jordan,San Francisco Bay Area Stadium,Group J,First Stage
+Argentina,Austria,Dallas Stadium (Dallas),Group J,First Stage
+Jordan,Algeria,San Francisco Bay Area Stadium,Group J,First Stage
+Algeria,Austria,Kansas City Stadium (Kansas City),Group J,First Stage
+Jordan,Argentina,Dallas Stadium (Dallas),Group J,First Stage
+Portugal,DR Congo,Houston Stadium (Houston),Group K,First Stage
+Uzbekistan,Colombia,Mexico City Stadium (Mexico City),Group K,First Stage
+Portugal,Uzbekistan,Houston Stadium (Houston),Group K,First Stage
+Colombia,DR Congo,Guadalajara Stadium (Guadalajara),Group K,First Stage
+Colombia,Portugal,Miami Stadium (Miami),Group K,First Stage
+DR Congo,Uzbekistan,Atlanta Stadium (Atlanta),Group K,First Stage
+Ghana,Panama,Toronto Stadium (Toronto),Group L,First Stage
+England,Croatia,Dallas Stadium (Dallas),Group L,First Stage
+England,Ghana,Boston Stadium (Boston),Group L,First Stage
+Panama,Croatia,Toronto Stadium (Toronto),Group L,First Stage
+Panama,England,New York/New Jersey Stadium,Group L,First Stage
+Croatia,Ghana,Philadelphia Stadium (Philadelphia),Group L,First Stage
+South Africa,Canada,Los Angeles Stadium (Los Angeles),-,Round of 32
+Brazil,Japan,Houston Stadium (Houston),-,Round of 32
+Germany,Paraguay,Boston Stadium (Boston),-,Round of 32
+Netherlands,Morocco,Monterrey Stadium (Monterrey),-,Round of 32
+Ivory Coast,Norway,Dallas Stadium (Dallas),-,Round of 32
+France,Sweden,New York/New Jersey Stadium,-,Round of 32
+Mexico,Ecuador,Mexico City Stadium (Mexico City),-,Round of 32
+England,DR Congo,Atlanta Stadium (Atlanta),-,Round of 32
+Belgium,Senegal,Seattle Stadium (Seattle),-,Round of 32
+United States,Bosnia and Herzegovina,San Francisco Bay Area Stadium,-,Round of 32
+Spain,Austria,Los Angeles Stadium (Los Angeles),-,Round of 32
+Portugal,Croatia,Toronto Stadium (Toronto),-,Round of 32
+Switzerland,Algeria,BC Place Vancouver (Vancouver),-,Round of 32
+Argentina,Cabo Verde,Miami Stadium (Miami),-,Round of 32
+Colombia,Ghana,Kansas City Stadium (Kansas City),-,Round of 32
+Canada,Morocco,Houston Stadium (Houston),-,Round of 16
+Paraguay,France,Philadelphia Stadium (Philadelphia),-,Round of 16
+Brazil,Norway,New York/New Jersey Stadium,-,Round of 16
+Mexico,England,Mexico City Stadium (Mexico City),-,Round of 16
+Portugal,Spain,Dallas Stadium (Dallas),-,Round of 16
+United States,Belgium,Seattle Stadium (Seattle),-,Round of 16
+Argentina,Egypt,Atlanta Stadium (Atlanta),-,Round of 16
+Switzerland,Colombia,Guadalajara Stadium (Guadalajara),-,Round of 16
+France,Morocco,Boston Stadium (Boston),-,Quarter-final
+Spain,Belgium,Los Angeles Stadium (Los Angeles),-,Quarter-final
+Norway,England,Miami Stadium (Miami),-,Quarter-final
+Argentina,Switzerland,Kansas City Stadium (Kansas City),-,Quarter-final
+France,Spain,Dallas Stadium (Dallas),-,Semi-final
+England,Argentina,Atlanta Stadium (Atlanta),-,Semi-final
+France,England,Miami Stadium (Miami),-,Bronze final
+Spain,Argentina,New York/New Jersey Stadium,-,Final

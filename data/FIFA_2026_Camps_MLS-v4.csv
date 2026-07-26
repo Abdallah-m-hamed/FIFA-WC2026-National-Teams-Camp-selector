@@ -1,0 +1,31 @@
+FIFA World Cup 2026™ — Training Facilities with Numeric Coordinates,,,,
+Facility inventory with separate numeric columns for Latitude and Longitude.,,,,
+,,,,
+ID,Facility Name,City,Latitude,Longitude
+1,Atlanta United Training Centre,"Marietta, GA, USA",33.9526,-84.5499
+2,Q2 Stadium Training Fields,"Austin, TX, USA",30.3850,-97.7197
+3,Charlotte FC Training Center,"Charlotte, NC, USA",35.2271,-80.8431
+4,Columbus Crew Performance Centre,"Columbus, OH, USA",39.9612,-82.9988
+5,FC Cincinnati Training Facility,"Cincinnati, OH, USA",39.1031,-84.5120
+6,Toyota Stadium (FC Dallas Stadium),"Frisco, TX, USA",33.1507,-96.8236
+7,Houston Sports Park,"Houston, TX, USA",29.6385,-95.3936
+8,KC Current Training Facility,"Kansas City, MO, USA",39.1000,-94.5786
+9,Nashville SC Training Center,"Nashville, TN, USA",36.1627,-86.7816
+10,Orlando City SC Training Grounds,"Kissimmee, FL, USA",28.2919,-81.4076
+11,Philadelphia Union Training Center,"Chester, PA, USA",39.8334,-75.3654
+12,RSL Training Centre,"Herriman, UT, USA",40.5093,-112.0363
+13,Seattle Sounders FC Performance Centre,"Renton, WA, USA",47.4829,-122.2171
+14,Sporting KC Training Centre & Swope Soccer Village,"Kansas City, KS/MO",39.0272,-94.4754
+15,National Soccer Development Centre,"Vancouver, BC, Canada",49.2559,-123.2456
+16,Birmingham Legion FC Training Facility,"Birmingham, AL, USA",33.5186,-86.8104
+17,Louisville City FC Facility,"Louisville, KY, USA",38.2527,-85.7585
+18,Oakland Roots/Soul Training Facility,"Alameda, CA, USA",37.7652,-122.2416
+19,Academia Atlas FC,"Guadalajara, Mexico",20.6597,-103.3496
+20,Rayados Training Centre,"Monterrey, Mexico",25.6866,-100.3161
+21,CF Pachuca – Universidad del Fútbol,"Pachuca, Mexico",20.1239,-98.7364
+22,Chivas Verde Valle,"Guadalajara, Mexico",20.6736,-103.3905
+23,Centro de Entrenamiento Xoloitzcuintle,"Tijuana, Mexico",32.5149,-117.0382
+24,Centro Gallo de Alto Rendimiento,"Querétaro, Mexico",20.5888,-100.3899
+25,TSM Territorio Santos Modelo,"Torreón, Mexico",25.5428,-103.4068
+26,The Greenbrier Sports Performance Center,"Greenbrier County, WV, USA",37.7882,-80.4350
+27,Don Hutson Center,"Green Bay, WI, USA",44.5013,-88.0622
