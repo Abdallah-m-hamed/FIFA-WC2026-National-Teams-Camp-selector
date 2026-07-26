@@ -1,0 +1,7 @@
+# build artifacts
+build/
+*.o
+*.exe
+
+# the generated sqlite database file (not source — regenerated from schema.sql)
+*.db
